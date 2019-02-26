@@ -1,2 +1,3 @@
 names=("Finch","Reese","Grooves","Shaw")
-print(names)
+for i in names :
+    print(i)
