@@ -4,3 +4,5 @@ def add(x,y):
 def sub(q,w):
     r=q-w
     print(r)
+def testing():
+    print(__name__)
